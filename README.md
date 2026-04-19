@@ -1,5 +1,5 @@
 ---
-youtube link: https://youtu.be/MBf_KHYLxj4 
+youtube link: 
 title: Mystical GM — Interactive Story Generator
 colorFrom: purple
 colorTo: blue
@@ -20,7 +20,7 @@ An end-to-end multimodal AI application where four neural networks collaborate t
 
 ## Demo
 
-> **YouTube video:** _[link]_
+> **YouTube video:** https://youtu.be/MBf_KHYLxj4
 > **Live Space:** https://huggingface.co/spaces/woolenelk/Mystic_GM
 
 ---
