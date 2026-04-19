@@ -1,5 +1,4 @@
 ---
-youtube link: 
 title: Mystical GM — Interactive Story Generator
 colorFrom: purple
 colorTo: blue
