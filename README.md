@@ -1,14 +1,3 @@
----
-title: Mystical GM — Interactive Story Generator
-colorFrom: purple
-colorTo: blue
-sdk: gradio
-sdk_version: "4.44.0"
-app_file: app_updated.py
-pinned: false
-suggested_hardware: zero-a10g
----
-
 # Mystical GM — Interactive Story Generator
 
 **CSCI 4052U — Machine Learning II | Final Project**
